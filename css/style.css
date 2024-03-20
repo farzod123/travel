@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.just{
+    height: 784px;
+    background: url(../img/JUST.svg) no-repeat center / cover;
+}
+
+.logo{
+    padding: 24px 0 0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 114px;
+}
+
+.qwer{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+    padding: 10px 0px ;
+}
+
+.logo a{
+    font-family: Roboto;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.just h1{
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 900;
+    line-height: 80px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: white;
+}
+
+.just h2{
+    font-family: Roboto;
+    font-size: 41px;
+    font-weight: 900;
+    line-height: 41px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #F9BF3B;
+    margin-top: 5px;
+}
+
+.container p{
+    color: white;
+    margin-top: 10px;
+}
+
+
+
+.container a{
+    color: #F9BF3B;
+    text-decoration: none;
+}
+
+.asd{
+    width: 250px;
+    height: 55px;
+    font-family: RobotoCondensed;
+    font-size: 21px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: white;
+    margin: 0 490px;
+    margin-top: 100px;
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);;
+}
+
+.pop h3{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    padding: 100px 0 40px;
+}
+
+.pop p{
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4A4A4A;
+}
+
+.grid{
+    display: grid;
+    gap: 60px;
+    grid-template-columns: repeat( 3,1fr);
+    margin-top: 60px;
+}
+
+.pop{
+    background-color: #EFEFEF;
+}
+
+.elem p{
+    color: #4A4A4A;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4A4A4A;
+    padding: 20px;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 60px ;
+}
+
+.trdt h2{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4A4A4A;
+}
+
+.trdt h1 {
+    padding: 20px 0 0;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #299CBD;
+
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
